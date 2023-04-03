@@ -1,0 +1,15 @@
+ <div class="card hover:shadow-lg"> 
+            <img src="img/tiles.webp" alt="stew" class="w-full object-cover h-32 sm:h-48 accordion-image cursor-pointer">
+            <div class="m-4">
+              <span class="font-bold">Home tiles</span>
+              <span class="block text-sm text-gray-200">made in India</span>
+            </div>
+            <div class="badge">
+              <svg class="w-5 inline-block" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              <span>25 mins</span>
+            </div>
+          </div>
+
+          https://www.tileclub.com/products/athena-cielo-polished-12x24
